@@ -9,7 +9,7 @@ I enjoy working on projects that combine **problem-solving with practical applic
 - Currently exploring **Python, Flask, and Databases**  
 - Experienced with **Java and MySQL**  
 - Completed an internship at **Litmus7 Systems Consulting Pvt Ltd** (June 2025)  
-- Active member of **IEEE** and **Hack Club**, contributing to both technical and design initiatives  
+- Active member of **IEEE** ,+**GDG on campus ASIET**, **Hack Club**, contributing to both technical and design initiatives  
 
 ---
 
